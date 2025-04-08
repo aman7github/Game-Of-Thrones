@@ -2,7 +2,7 @@
 
 ### Contributers = Aman Kumar Maurya , Neerav khatri ,Uzair
 
-### Deployed Link https://gamefrontend-uzairmd073-gmailcom.vercel.app/
+### Deployed Link https://gamefrontend-eko21c0zt-aman7githubs-projects.vercel.app/players
 
 
 ### Homepage
